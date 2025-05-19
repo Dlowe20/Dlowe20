@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently further developing my understanding of C++ and Java<br>I am currenlty working on finishing my BSc (Hons) in Software Development and small side project in Java<br><br>
+I am currently further developing my understanding of C++ and Java<br>I am currenlty working on finishing my BSc (Hons) in Software Development and a small side project using server and java<br><br>
 
 
 ## 🌐 Socials:
